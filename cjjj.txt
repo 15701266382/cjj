@@ -1,0 +1,5 @@
+
+
+/test/sfjsdk/
+水水水水我
+git add /test
